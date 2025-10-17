@@ -34,7 +34,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 ## Carbon Reduction
 
-- [1 Click Impact](https://1clickimpact.com/) - 1ClickImpact is a leading platform that helps businesses and individuals automatically capture carbon and plant trees using API or no-code integrations. Every carbon reduction is trackable in real time with verified data, project maps, and live planting sessions for full transparency. Make measurable carbon removal a seamless part of your product or sustainability strategy.
+- [1 Click Impact](https://1clickimpact.com/) - 1ClickImpact is a leading platform that helps businesses and individuals automatically capture carbon and plant trees using API or no-code integrations. Every carbon reduction is trackable in real time with verified data, project maps, and live planting sessions for full transparency. It makes measurable carbon removal and reduction a seamless part of your product or sustainability strategy.
 - [1% for the Planet](https://www.onepercentfortheplanet.org/) - A membership program for businesses and individuals, allowing them to donate 1% of their gross yearly profits or salary back to environmental nonprofits to create a healthier planet.
 - [Beam](https://www.beamproject.co/) - Make small automatic donations while you shop online, to support the cleantech startups trying to change the world. Clean Tech investment money has dried up over the years, so crowdsourcing is becoming the only option for many, and with a Chrome extension you can chuck in a dollar when you're buying other stuff.
 - [Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/) - Maps and statistics on regional, national, and subnational carbon pricing initiatives.
@@ -311,7 +311,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 ## Reforestation
 
-- [1 Click Impact](https://1clickimpact.com/) - 1ClickImpact is the easiest and most transparent platform to automatically plant trees through API or no-code integrations. Every tree is trackable in real time with maps, verified updates, and exclusive access to live planting sessions. Make reforestation simple, measurable, and a visible part of your brand’s sustainability journey.
+- [1 Click Impact](https://1clickimpact.com/) - 1ClickImpact is an easy-to-use and transparent platform to automatically plant trees through API or no-code integrations. Every tree is trackable in real time with maps, verified updates, and exclusive access to live planting sessions. It makes reforestation simple, measurable, and a visible part of your brand’s sustainability journey.
 - [Arbor Day Foundation](https://www.arborday.org/) - The Arbor Day Foundation is a 501(c)(3) nonprofit conservation and education organization. A million members, donors, and partners support our programs to make our world greener and healthier.
 - [Bunq Greencard](https://www.bunq.com/easygreen) - Dutch online-only bank with a credit card which plants trees for the money you spend.
 - [Coforest](https://coforest.co.uk/) - To create our first co-forest in the Bath & Bristol area, we’re inviting organisations and individuals to adopt up to an acre of land. You’ll be able to name your forest plot and even help to plant it. Together, we’ll create a whole new forest.
